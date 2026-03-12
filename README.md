@@ -123,7 +123,7 @@ Suggested future improvements:
 
 ### License
 
-Add the license of your choice before publishing publicly on GitHub.
+This project is licensed under the MIT License. See the `LICENSE` file for the full text.
 
 ## Portugues
 
@@ -236,4 +236,5 @@ Melhorias sugeridas para proximas versoes:
 
 ### Licenca
 
-Adicione a licenca de sua preferencia antes de publicar publicamente no GitHub.
+Este projeto esta licenciado sob a licenca MIT. Consulte o arquivo `LICENSE` para o texto completo.
+
